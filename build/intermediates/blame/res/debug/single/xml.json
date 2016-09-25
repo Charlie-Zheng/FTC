@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\xml\\k9usbbot.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\menu\\ftc_robot_controller.xml"
+    }
+]

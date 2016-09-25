@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\black_border.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_menu.png",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
+    }
+]

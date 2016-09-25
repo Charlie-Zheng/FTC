@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\ftc_app-master\\FtcRobotController\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "D:\\Robotics\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
+        "merged": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "D:\\Robotics\\FTC\\workspace\\ftc_app-master\\TeamCode\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
+    }
+]
