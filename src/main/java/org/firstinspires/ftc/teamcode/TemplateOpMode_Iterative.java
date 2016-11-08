@@ -35,6 +35,8 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
+import com.qualcomm.robotcore.hardware.DcMotorController;
+import com.qualcomm.robotcore.hardware.configuration.MotorControllerConfiguration;
 import com.qualcomm.robotcore.util.ElapsedTime;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
@@ -43,6 +45,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
  * An OpMode is a 'program' that runs in either the autonomous or the teleop period of an FTC match.
  * The names of OpModes appear on the menu of the FTC Driver Station.
  * When an selection is made from the menu, the corresponding OpMode
+ * class is instantiated on the Robot Controller and executed.
  * class is instantiated on the Robot Controller and executed.
  *
  * This particular OpMode just executes a basic Tank Drive Teleop for a PushBot
@@ -57,7 +60,7 @@ public class TemplateOpMode_Iterative extends OpMode
 {
     /* Declare OpMode members. */
     private ElapsedTime runtime = new ElapsedTime();
-
+private DcMotorController motor = null;
     private DcMotor leftMotor = null;
     private DcMotor rightMotor = null;
 
@@ -72,8 +75,9 @@ public class TemplateOpMode_Iterative extends OpMode
          * to 'get' must correspond to the names assigned during the robot configuration
          * step (using the FTC Robot Controller app on the phone).
          */
-         leftMotor  = hardwareMap.dcMotor.get("left motor");
-         rightMotor = hardwareMap.dcMotor.get("right motor");
+        motor = hardwareMap.dcMotorController.get("motorController");
+         leftMotor  = hardwareMap.dcMotor.get("motor_1");
+         rightMotor = hardwareMap.dcMotor.get("motor_2");
 
         // eg: Set the drive motor directions:
         // Reverse the motor that runs backwards when connected directly to the battery
@@ -102,10 +106,12 @@ public class TemplateOpMode_Iterative extends OpMode
      */
     @Override
     public void loop() {
-        telemetry.addData("Status", "Running: " + runtime.toString());
+        telemetry.addData("Status", "RunningFGHJK: " + runtime.toString());
     if(ElapsedTime.MILLIS_IN_NANO<5000){
-        leftMotor.setPower(0.5);
-        rightMotor.setPower(0.5);
+        leftMotor.setPower(1);
+        motor.setMotorPower(1,1);
+        telemetry.addData("Left Motor Power:", Double.toString(leftMotor.getPower()));
+        rightMotor.setPower(1);
     }
         // eg: Run wheels in tank mode (note: The joystick goes negative when pushed forwards)
 //        leftMotor.setPower(-gamepad1.left_stick_y);
@@ -118,6 +124,7 @@ public class TemplateOpMode_Iterative extends OpMode
      */
     @Override
     public void stop() {
+        telemetry.addData("Status", "Stopping: " );
     }
 
 }
